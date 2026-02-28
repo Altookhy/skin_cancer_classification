@@ -1,0 +1,24 @@
+{
+  "os": "Windows-11-10.0.26200-SP0",
+  "python": "CPython 3.13.12",
+  "startedAt": "2026-02-27T23:27:57.803458Z",
+  "program": "c:\\Users\\osama\\OneDrive\\Desktop\\skin cancer\\dataset.ipynb",
+  "codePath": "c:\\Users\\osama\\OneDrive\\Desktop\\skin cancer\\dataset.ipynb",
+  "codePathLocal": "dataset.ipynb",
+  "email": "tgosama@graduate.utm.my",
+  "root": "c:\\Users\\osama\\OneDrive\\Desktop\\skin cancer",
+  "host": "Tookhy",
+  "executable": "C:\\Users\\osama\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\python.exe",
+  "cpu_count": 6,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "228787744768",
+      "used": "146138771456"
+    }
+  },
+  "memory": {
+    "total": "16950546432"
+  },
+  "writerId": "vn06dwsstg4mqersxp7n0x29ee7zt9go"
+}

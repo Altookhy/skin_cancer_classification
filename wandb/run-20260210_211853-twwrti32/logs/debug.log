@@ -1,0 +1,22 @@
+2026-02-10 21:18:53,802 INFO    MainThread:18968 [wandb_init.py:setup_run_log_directory():717] Logging user logs to c:\Users\osama\OneDrive\Desktop\skin cancer\wandb\run-20260210_211853-twwrti32\logs\debug.log
+2026-02-10 21:18:53,802 INFO    MainThread:18968 [wandb_init.py:setup_run_log_directory():718] Logging internal logs to c:\Users\osama\OneDrive\Desktop\skin cancer\wandb\run-20260210_211853-twwrti32\logs\debug-internal.log
+2026-02-10 21:18:53,803 INFO    MainThread:18968 [wandb_init.py:init():844] calling init triggers
+2026-02-10 21:18:53,804 INFO    MainThread:18968 [wandb_init.py:init():849] wandb.init called with sweep_config: {}
+config: {'learning_rate': 1e-05, 'architecture': 'ResNet50', 'dataset': 'HAM10000', 'epochs': 15, 'batch_size': 32, 'seed': 42, '_wandb': {}}
+2026-02-10 21:18:59,141 INFO    MainThread:18968 [wandb_init.py:init():892] starting backend
+2026-02-10 21:18:59,141 INFO    MainThread:18968 [wandb_init.py:init():895] sending inform_init request
+2026-02-10 21:18:59,145 INFO    MainThread:18968 [wandb_init.py:init():903] backend started and connected
+2026-02-10 21:18:59,150 INFO    MainThread:18968 [wandb_run.py:_label_probe_notebook():1334] probe notebook
+2026-02-10 21:18:59,167 INFO    MainThread:18968 [wandb_init.py:init():973] updated telemetry
+2026-02-10 21:18:59,169 INFO    MainThread:18968 [wandb_init.py:init():997] communicating run to backend with 90.0 second timeout
+2026-02-10 21:18:59,963 INFO    MainThread:18968 [wandb_init.py:init():1042] starting run threads in backend
+2026-02-10 21:19:02,000 INFO    MainThread:18968 [wandb_run.py:_console_start():2529] atexit reg
+2026-02-10 21:19:02,000 INFO    MainThread:18968 [wandb_run.py:_redirect():2377] redirect: wrap_raw
+2026-02-10 21:19:02,000 INFO    MainThread:18968 [wandb_run.py:_redirect():2446] Wrapping output streams.
+2026-02-10 21:19:02,001 INFO    MainThread:18968 [wandb_run.py:_redirect():2469] Redirects installed.
+2026-02-10 21:19:02,002 INFO    MainThread:18968 [wandb_init.py:init():1082] run started, returning control to user process
+2026-02-11 12:37:21,355 INFO    MainThread:18968 [wandb_run.py:_finish():2295] finishing run tookhy-aau/skin-lesion-classification/twwrti32
+2026-02-11 12:37:21,358 INFO    MainThread:18968 [wandb_run.py:_atexit_cleanup():2494] got exitcode: 0
+2026-02-11 12:37:21,360 INFO    MainThread:18968 [wandb_run.py:_restore():2476] restore
+2026-02-11 12:37:21,360 INFO    MainThread:18968 [wandb_run.py:_restore():2482] restore done
+2026-02-11 12:37:22,917 INFO    MainThread:18968 [wandb_run.py:_footer_sync_info():3871] logging synced files

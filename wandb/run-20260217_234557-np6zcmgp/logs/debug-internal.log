@@ -1,0 +1,15 @@
+{"time":"2026-02-17T23:46:06.9540716+01:00","level":"INFO","msg":"stream: starting","core version":"0.24.2"}
+{"time":"2026-02-17T23:46:11.231559+01:00","level":"INFO","msg":"stream: created new stream","id":"np6zcmgp"}
+{"time":"2026-02-17T23:46:11.231559+01:00","level":"INFO","msg":"handler: started","stream_id":"np6zcmgp"}
+{"time":"2026-02-17T23:46:11.2330964+01:00","level":"INFO","msg":"stream: started","id":"np6zcmgp"}
+{"time":"2026-02-17T23:46:11.2330964+01:00","level":"INFO","msg":"sender: started","stream_id":"np6zcmgp"}
+{"time":"2026-02-17T23:46:11.2330964+01:00","level":"INFO","msg":"writer: started","stream_id":"np6zcmgp"}
+{"time":"2026-02-17T23:46:55.3896015+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/tookhy-aau/skin-lesion-classification/np6zcmgp/file_stream\": read tcp 192.168.68.55:60781->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2026-02-17T23:47:18.850896+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/tookhy-aau/skin-lesion-classification/np6zcmgp/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2026-02-17T23:47:44.7242997+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/tookhy-aau/skin-lesion-classification/np6zcmgp/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2026-02-17T23:51:13.2614508+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-17T23:51:13.6407647+01:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-17T23:51:13.6462263+01:00","level":"INFO","msg":"stream: closing","id":"np6zcmgp"}
+{"time":"2026-02-17T23:51:13.6462263+01:00","level":"INFO","msg":"handler: closed","stream_id":"np6zcmgp"}
+{"time":"2026-02-17T23:51:13.6513957+01:00","level":"INFO","msg":"sender: closed","stream_id":"np6zcmgp"}
+{"time":"2026-02-17T23:51:13.6513957+01:00","level":"INFO","msg":"stream: closed","id":"np6zcmgp"}

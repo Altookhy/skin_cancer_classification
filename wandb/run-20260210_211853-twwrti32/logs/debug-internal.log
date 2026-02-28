@@ -1,0 +1,13 @@
+{"time":"2026-02-10T21:18:59.1454211+01:00","level":"INFO","msg":"stream: starting","core version":"0.24.2"}
+{"time":"2026-02-10T21:18:59.5239318+01:00","level":"INFO","msg":"stream: created new stream","id":"twwrti32"}
+{"time":"2026-02-10T21:18:59.5239318+01:00","level":"INFO","msg":"handler: started","stream_id":"twwrti32"}
+{"time":"2026-02-10T21:18:59.5250386+01:00","level":"INFO","msg":"stream: started","id":"twwrti32"}
+{"time":"2026-02-10T21:18:59.5250386+01:00","level":"INFO","msg":"writer: started","stream_id":"twwrti32"}
+{"time":"2026-02-10T21:18:59.5250386+01:00","level":"INFO","msg":"sender: started","stream_id":"twwrti32"}
+{"time":"2026-02-11T12:21:20.0518738+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/tookhy-aau/skin-lesion-classification/twwrti32/file_stream\": read tcp 192.168.68.50:60576->35.186.228.49:443: wsarecv: An established connection was aborted by the software in your host machine."}
+{"time":"2026-02-11T12:37:22.6154442+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-11T12:37:22.8994365+01:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-11T12:37:22.9242462+01:00","level":"INFO","msg":"stream: closing","id":"twwrti32"}
+{"time":"2026-02-11T12:37:22.9248678+01:00","level":"INFO","msg":"handler: closed","stream_id":"twwrti32"}
+{"time":"2026-02-11T12:37:22.9279896+01:00","level":"INFO","msg":"sender: closed","stream_id":"twwrti32"}
+{"time":"2026-02-11T12:37:22.9279896+01:00","level":"INFO","msg":"stream: closed","id":"twwrti32"}
